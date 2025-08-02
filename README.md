@@ -13,12 +13,12 @@ I'm a **Mobile App Developer** with close to **10 years of experience** in build
 ## 🛠️ Tech Stack & Tools
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=next.js&logoColor=FFFFFF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
 ![Kotlin](https://img.shields.io/badge/Kotlin-20232A?style=flat&logo=kotlin&logoColor=7F52FF)
 ![Redux](https://img.shields.io/badge/Redux-20232A?style=flat&logo=redux&logoColor=764ABC)
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=flat&logo=jest&logoColor=C21325)
-![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=flat&logo=vscode&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-20232A?style=flat&logo=androidstudio&logoColor=3DDC84)
 ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=flat&logo=firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032)
