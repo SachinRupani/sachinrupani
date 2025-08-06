@@ -34,18 +34,13 @@ I'm a **Mobile App Developer** with close to **10 years of experience** in build
 
 ## 🌐 My Website
 
-👉 [sachinrupani.com](https://sachinrupani.com)
+🤝 [sachinrupani.com](https://sachinrupani.com)
 
 ## 📊 GitHub Stats
 
 ![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinrupani&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrupani&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=sachinrupani&theme=radical)
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-rupani-23a872bb/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sachinrupani)
