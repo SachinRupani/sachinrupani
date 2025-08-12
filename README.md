@@ -38,8 +38,8 @@ I'm a **Mobile App Developer** with close to **10 years of experience** in build
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinrupani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrupani&layout=compact&theme=radical)
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinrupani&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrupani&layout=compact&theme=gruvbox)
 
 ## 📫 Let's Connect
 
