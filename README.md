@@ -58,9 +58,9 @@ I specialize in:
 
 ## 📝 Tech Blogs
 
+- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
 - [Simple and Clean State Management with Jetpack Compose (Kotlin)](https://medium.com/@sachin.rupani1992/simple-and-clean-state-management-with-jetpack-compose-387d6b0e6258)
 - [Remove Transition Animation in React Native](https://dev.to/sachinrupani/simple-remove-transition-animation-in-react-native-29l3)
-- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
 
 ---
 
