@@ -24,6 +24,8 @@ I specialize in:
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-20232A?style=flat&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Android](https://img.shields.io/badge/Android-20232A?style=flat&logo=android&logoColor=3DDC84)
 ![Kotlin](https://img.shields.io/badge/Kotlin-20232A?style=flat&logo=kotlin&logoColor=7F52FF)
 
