@@ -1,46 +1,79 @@
-# 👋 Hi!
+# 👋 Hi there!
 
-My name is <b>Sachin Rupani </></b>
+<h3>I am Sachin Rupani</h3>
 
 ## 🚀 About Me
 
-I'm a **Mobile App Developer** with close to **10 years of experience** in building high-quality applications across **Android (Kotlin)** and **React Native (TypeScript)** platforms. I specialize in:
+I'm a **Mobile App Development Engineer** with close to **10 years & 6 months of experience** building high-quality applications across:
 
-- Crafting performance-optimized mobile apps.
-- Architecting scalable codebases with clean architecture principles.
-- Mentoring and collaborating across cross-functional teams.
+- ⚛️ React Native (TypeScript)
+- 📱 Android (Kotlin)
+
+I specialize in:
+
+- Crafting performance-optimized mobile apps
+- Architecting scalable codebases using Clean Architecture
+- Writing testable, maintainable code
+- Mentoring and collaborating with across cross-functional teams
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
+### 📱 Mobile
+
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=next.js&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
+![Expo](https://img.shields.io/badge/Expo-20232A?style=flat&logo=expo&logoColor=white)
+![Android](https://img.shields.io/badge/Android-20232A?style=flat&logo=android&logoColor=3DDC84)
 ![Kotlin](https://img.shields.io/badge/Kotlin-20232A?style=flat&logo=kotlin&logoColor=7F52FF)
-![Redux](https://img.shields.io/badge/Redux-20232A?style=flat&logo=redux&logoColor=764ABC)
+
+### 🌐 Frontend & State Management
+
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat&logo=next.js&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo%20Router-20232A?style=flat&logo=expo&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-20232A?style=flat&logo=reactquery&logoColor=FF4154)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-20232A?style=flat&logo=redux&logoColor=764ABC)
+![Zustand](https://img.shields.io/badge/Zustand-20232A?style=flat&logo=zustand&logoColor=white)
+![Uniwind](https://img.shields.io/badge/Uniwind-20232A?style=flat)
+![Unistyles 3.0](https://img.shields.io/badge/Unistyles%203.0-20232A?style=flat)
+![Firebase Push Notifications](https://img.shields.io/badge/Firebase%20Push%20Notifications-20232A?style=flat&logo=firebase&logoColor=FFCA28)
+![Axios](https://img.shields.io/badge/Axios-20232A?style=flat)
+
+### 🧪 Testing
+
 ![Jest](https://img.shields.io/badge/Jest-20232A?style=flat&logo=jest&logoColor=C21325)
-![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=flat&logo=vscode&logoColor=007ACC)
+![React Native Testing Library](https://img.shields.io/badge/RN%20Testing%20Library-20232A?style=flat)
+![Detox](https://img.shields.io/badge/Detox-20232A?style=flat&logo=detox&logoColor=white)
+
+### 🛠️ Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-20232A?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Antigravity](https://img.shields.io/badge/Antigravity-20232A?style=flat)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-20232A?style=flat&logo=androidstudio&logoColor=3DDC84)
-![Firebase](https://img.shields.io/badge/Firebase-20232A?style=flat&logo=firebase&logoColor=FFCA28)
 ![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032)
 
-## 📝 Blogs
+---
+
+## 📝 Tech Blogs
 
 - [Simple and Clean State Management with Jetpack Compose (Kotlin)](https://medium.com/@sachin.rupani1992/simple-and-clean-state-management-with-jetpack-compose-387d6b0e6258)
 - [Remove Transition Animation in React Native](https://dev.to/sachinrupani/simple-remove-transition-animation-in-react-native-29l3)
+- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
+
+---
 
 ## 📦 NPM Package
 
 - [`react-native-basic-story-view`](https://www.npmjs.com/package/react-native-basic-story-view)
 
-## 🌐 My Website
+---
 
-🤝 [sachinrupani.com](https://sachinrupani.com)
+## 🌐 Website
 
-## 📊 GitHub Stats
+🔗 [sachinrupani.com](https://www.sachinrupani.com)
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinrupani&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinrupani&layout=compact&theme=gruvbox)
+---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinrupani)
